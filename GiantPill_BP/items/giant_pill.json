@@ -1,0 +1,55 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom:giant_pill",
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.potion"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "giant_pill"
+      },
+      "minecraft:display_name": {
+        "value": "巨人药丸"
+      },
+      "minecraft:use_modifiers": {
+        "use_duration": 1.6,
+        "movement_modifier": 0.35
+      },
+      "minecraft:food": {
+        "can_always_eat": true,
+        "nutrition": 0,
+        "saturation_modifier": 0.0,
+        "effects": [
+          {
+            "name": "night_vision",
+            "duration": 600,
+            "amplifier": 254,
+            "chance": 1.0
+          },
+          {
+            "name": "health_boost",
+            "duration": 600,
+            "amplifier": 254,
+            "chance": 1.0
+          },
+          {
+            "name": "strength",
+            "duration": 600,
+            "amplifier": 254,
+            "chance": 1.0
+          },
+          {
+            "name": "speed",
+            "duration": 600,
+            "amplifier": 2,
+            "chance": 1.0
+          }
+        ]
+      }
+    }
+  }
+}
