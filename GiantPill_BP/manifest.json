@@ -3,14 +3,14 @@
   "header": {
     "name": "巨人药丸行为包",
     "description": "提供巨人药丸物品行为",
-    "uuid": "你的第一个BP-UUID",
+    "uuid": "d8ff38fe-c8ad-4ea9-a2c1-02e5603db2a6",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "你的第二个BP-UUID",
+      "uuid": "785ddd2e-2561-4698-9a9d-a73e72093b20",
       "version": [1, 0, 0]
     }
   ]
