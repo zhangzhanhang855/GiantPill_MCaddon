@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "巨人药丸行为包",
+    "description": "提供巨人药丸物品行为",
+    "uuid": "你的第一个BP-UUID",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "你的第二个BP-UUID",
+      "version": [1, 0, 0]
+    }
+  ]
+}
