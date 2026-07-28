@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "巨人药丸 - 资源包",
+    "description": "巨人药丸的贴图与材质文件",
+    "uuid": "这里填第3个UUID",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "这里填第4个UUID",
+      "version": [1, 0, 0]
+    }
+  ]
+}
